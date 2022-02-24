@@ -1,0 +1,12 @@
+D:\Github\TestingTask\SquareCalculator\bin\Debug\net5.0\SquareCalculator.deps.json
+D:\Github\TestingTask\SquareCalculator\bin\Debug\net5.0\SquareCalculator.dll
+D:\Github\TestingTask\SquareCalculator\bin\Debug\net5.0\ref\SquareCalculator.dll
+D:\Github\TestingTask\SquareCalculator\bin\Debug\net5.0\SquareCalculator.pdb
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\SquareCalculator.csproj.AssemblyReference.cache
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\SquareCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\SquareCalculator.AssemblyInfoInputs.cache
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\SquareCalculator.AssemblyInfo.cs
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\SquareCalculator.csproj.CoreCompileInputs.cache
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\SquareCalculator.dll
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\ref\SquareCalculator.dll
+D:\Github\TestingTask\SquareCalculator\obj\Debug\net5.0\SquareCalculator.pdb
